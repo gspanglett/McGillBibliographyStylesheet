@@ -1,5 +1,5 @@
-# McGillBibliographyStylesheet
-McGill Legal Style Bibliography Stylesheet Addon for MS Word
+# McGill Bibliography Stylesheet
+##McGill Legal Style Bibliography Stylesheet Addon for MS Word
 
 Adds "McGill Legal" as a citation style in the References section of MS Word.  It also creates new citation source types for:  cases, legislation, legal journals, and social media posts.  Other source types - books (plus collections of essays), websites, and electronic, online resources - have also been made fully McGill-compliant.  The popup form in MS Word to enter sources has also been modified to match McGill style headings and descriptions.
 
