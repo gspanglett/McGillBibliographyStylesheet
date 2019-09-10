@@ -19,9 +19,11 @@ Download the installer, run it, then open MS Word and check to see if McGill Leg
 0.  Close all Office applications.
 
 1.  Copy BIBFORM.XML to C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography\
+
     1a.  You can backup the existing BIBFORM.XML file before copying the new one.
     
 2.  Copy types.xml and McGillLegal.xsl to C:\Users\<your_username>\AppData\Roaming\Microsoft\Bibliography\Style\
+
     2a.  AppData is a hidden folder and may not visible.  You can type it in your address bar, or you can type %AppData% in the address bar and it should take you C:\Users\<your_username>\AppData\Roaming\
     
 3.  Start MS Word.  Go to the References tab.  In the Citations and Bibliography section, check that "McGill Legal" is selectable as a style.
@@ -33,7 +35,9 @@ Download the installer, run it, then open MS Word and check to see if McGill Leg
 0.  Close all Office applications.
 
 1.  Copy BIBFORM.XML to /Applications/Microsoft Word.app/Contents/Resources/en.lproj/
+
     1a.  You can backup the existing BIBFORM.XML file before copying the new one.
+    
     1b.  If your default language is NOT english, find the correct folder in Resources - there is a BIBFORM.XML file for each language.
     
 2.  Copy types.xml and McGillLegal.xsl to /Applications/Microsoft Words.app/Contents/Resources/Style/
