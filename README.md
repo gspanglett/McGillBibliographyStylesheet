@@ -63,3 +63,10 @@ Close all Office applications before proceeding.
 3.  Start MS Word.  Go to the References tab.  In the Citations and Bibliography section, check that "McGill Legal" is selectable as a style.
 
 4.  Go to Insert Citation ->  Add New Source ...  .  Go to the Type of Source dropdown.  Check that Legislation, Case and Legal Jounral Article are the first two items in the dropdown.
+
+
+# Other Info
+
+To all 1L students at University of Ottawa - bringing open source to the legal profession.
+
+Gareth Spanglett.
