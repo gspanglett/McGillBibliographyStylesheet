@@ -289,13 +289,13 @@
         <format>{%CitationPrefix%}{%Author:1|Editor:2%}{, &quot;%Title%&quot;} in{ %Editor:2%&#44; }{ &lt;i&gt;%PeriodicalTitle%&lt;/i&gt;,}{ %Edition:o% ed} &#40;{%City%{, %StateProvince|CountryRegion%}: }{%Publisher%} { %Year|"nd"%{%YearSuffix%}}{%Year%{%YearSuffix%}}&#41;{ %Pages%}{ %CitationPages:at :at %}{%CitationSuffix%}.</format>
       </source>
       <source type="Patent">
-        <format>{%CitationPrefix%}{&quot;%Title%&quot;, }{%CountryRegion% }{Patent No %PatentNumber%}{, PCT Patent No %PCTPatentNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %CitationPages:, :, %}{%CitationSuffix%}.</format>
+        <format>{%CitationPrefix%}{&quot;%Title%&quot;, }{%CountryRegion% }{Patent No %PatentNumber%}{, PCT Patent No %PCTPatentNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{%CitationPages:, :, %}{%CitationSuffix%}.</format>
       </source>
       <source type="Trademark">
-        <format>{%CitationPrefix%}{&quot;%Title%&quot;, }{%Author:1|Editor:2%, }{%CountryRegion% }{No %RegistrationNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}{ %CitationPages:, :, %}{%CitationSuffix%}.</format>
+        <format>{%CitationPrefix%}{&quot;%Title%&quot;, }{%Author:1|Editor:2%, }{%CountryRegion% }{No %RegistrationNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}{%CitationPages:, :, %}{%CitationSuffix%}.</format>
       </source>
       <source type="Copyright">
-        <format>{%CitationPrefix%}{&quot;%Title%&quot; }{&#40;%Type%&#41; }{%Author:1|Editor:2%, }{%CountryRegion% }{%RegistrationNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}{ %CitationPages:, :, %}{%CitationSuffix%}.</format>
+        <format>{%CitationPrefix%}{&quot;%Title%&quot; }{&#40;%Type%&#41; }{%Author:1|Editor:2%, }{%CountryRegion% }{%RegistrationNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}{%CitationPages:, :, %}{%CitationSuffix%}.</format>
       </source>
       <source type="BookSection">
         <format>{%CitationPrefix%}{%Author:1|Editor:2|ShortTitle|Title%{ %Year|"nd"%{%YearSuffix%}}}{%Year%{%YearSuffix%}}{ %CitationPages:at :at %}{%CitationSuffix%}.</format>
