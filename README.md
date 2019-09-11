@@ -41,7 +41,7 @@ Close all Office applications before proceeding.
 
 2.  Go the Finder, and go to Utilities.  Launch Terminal.
 
-3.  Type the command: ```cd &#60;directory where files are located&#60;``` (e.g. cd /Users/gareth/Downloads/)
+3.  Type the command: ```cd /directory/where/files/are/located``` (e.g. ```cd /Users/gareth/Downloads/```)
 
 4.  Type the command:  ```sudo ./McGillBibliographyInstaller.sh``` (if prompted, enter your MacOS user password).
 
