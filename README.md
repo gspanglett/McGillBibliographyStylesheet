@@ -67,6 +67,6 @@ Close all Office applications before proceeding.
 
 # Other Info
 
-To all 1L students at University of Ottawa - bringing open source to the legal profession.
+Dedicated to all 1L students at University of Ottawa: bringing open source to the legal profession.
 
 Gareth Spanglett.
