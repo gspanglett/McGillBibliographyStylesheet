@@ -10,13 +10,13 @@ And, it will automatically track and update supra note references.
 
 ## Installation Windows
 
+Close all Office applications before proceeding.
+
 ### Option 1:  Use installer
 
 Download the installer, run it, then open MS Word and check to see if McGill Legal is available as a reference style.
 
 ### Option 2:  Manual install
-
-0.  Close all Office applications.
 
 1.  Copy BIBFORM.XML to C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography\
 
@@ -41,9 +41,9 @@ Close all Office applications before proceeding.
 
 2.  Go the Finder, and go to Utilities.  Launch Terminal.
 
-3.  Type the command: cd &#60;directory where files are located&#60; (e.g. cd /Users/gareth/Downloads/)
+3.  Type the command: ```cd &#60;directory where files are located&#60;``` (e.g. cd /Users/gareth/Downloads/)
 
-4.  Type the command:  sudo ./McGillBibliographyInstaller.sh (if prompted, enter your MacOS user password).
+4.  Type the command:  ```sudo ./McGillBibliographyInstaller.sh``` (if prompted, enter your MacOS user password).
 
 5.  Start MS Word.  Go to the References tab.  In the Citations and Bibliography section, check that "McGill Legal" is selectable as a style.
 
