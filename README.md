@@ -30,9 +30,27 @@ Download the installer, run it, then open MS Word and check to see if McGill Leg
 
 4.  Go to Insert Citation ->  Add New Source ...  .  Go to the Type of Source dropdown.  Check that Legislation, Case and Legal Jounral Article are the first two items in the dropdown.
 
-## Installation MacOS - manual install
 
-0.  Close all Office applications.
+## Installation MacOS 
+
+Close all Office applications before proceeding.
+
+### Option 1:  Use install script
+
+1.  Download the following files to a directory:  BIBFORM.XML, types.xml, McGillLegal.xsl, McGillBibliographyInstaller.sh
+
+2.  Go the Finder, and go to Utilities.  Launch Terminal.
+
+3.  Type the command: cd <directory where files are located> (e.g. cd /Users/gareth/Downloads/)
+
+4.  Type the command:  sudo ./McGillBibliographyInstaller.sh (if prompted, enter your MacOS user password).
+
+5.  Start MS Word.  Go to the References tab.  In the Citations and Bibliography section, check that "McGill Legal" is selectable as a style.
+
+6.  Go to Insert Citation ->  Add New Source ...  .  Go to the Type of Source dropdown.  Check that Legislation, Case and Legal Jounral Article are the first two items in the dropdown.
+
+### Option 2:  Manual Install
+
 
 1.  Copy BIBFORM.XML to /Applications/Microsoft Word.app/Contents/Resources/en.lproj/
 
