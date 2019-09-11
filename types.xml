@@ -218,18 +218,61 @@
   </Type>
   <Type Name="Patent">
     <!-- Begin original tags. -->
-    <DataTag>b:Author/b:Inventor/b:NameList</DataTag>
+    <DataTag>b:Author/b:Author/b:NameList</DataTag>
     <DataTag>b:Title</DataTag>
-    <DataTag>b:Year</DataTag>
-    <DataTag>b:Month</DataTag>
-    <DataTag>b:Day</DataTag>
     <DataTag>b:CountryRegion</DataTag>
+    <DataTag>b:PatentNumber</DataTag>
+    <DataTag>b:PCTPatentNumber</DataTag>
+    <DataTag>b:Day</DataTag>
+    <DataTag>b:Month</DataTag>
+    <DataTag>b:Year</DataTag>
     <DataTag>b:Type</DataTag>
+    <DataTag>b:ShortTitle</DataTag>
     <DataTag>b:Author/b:Editor/b:NameList</DataTag>
     <DataTag>b:Author/b:Translator/b:NameList</DataTag>
-    <DataTag>b:ShortTitle</DataTag>
     <DataTag>b:Comments</DataTag>
-    <DataTag>b:PatentNumber</DataTag>
+    <!-- End original tags. -->
+    <!-- Begin extra tags. -->
+    <DataTag>b:Medium</DataTag>
+    <DataTag>b:Publisher</DataTag>
+    <!-- End extra tags. -->
+  </Type>
+  <Type Name="Trademark">
+    <!-- Begin original tags. -->
+    <DataTag>b:Author/b:Author/b:NameList</DataTag>
+    <DataTag>b:Title</DataTag>
+    <DataTag>b:CountryRegion</DataTag>
+    <DataTag>b:RegistrationNumber</DataTag>
+    <DataTag>b:Status</DataTag>
+    <DataTag>b:Day</DataTag>
+    <DataTag>b:Month</DataTag>
+    <DataTag>b:Year</DataTag>
+    <DataTag>b:Type</DataTag>
+    <DataTag>b:ShortTitle</DataTag>
+    <DataTag>b:Author/b:Editor/b:NameList</DataTag>
+    <DataTag>b:Author/b:Translator/b:NameList</DataTag>
+    <DataTag>b:Comments</DataTag>
+    <!-- End original tags. -->
+    <!-- Begin extra tags. -->
+    <DataTag>b:Medium</DataTag>
+    <DataTag>b:Publisher</DataTag>
+    <!-- End extra tags. -->
+  </Type>
+  <Type Name="Copyright">
+    <!-- Begin original tags. -->
+    <DataTag>b:Author/b:Author/b:NameList</DataTag>
+    <DataTag>b:Title</DataTag>
+    <DataTag>b:Type</DataTag>
+    <DataTag>b:CountryRegion</DataTag>
+    <DataTag>b:RegistrationNumber</DataTag>
+    <DataTag>b:Status</DataTag>
+    <DataTag>b:Day</DataTag>
+    <DataTag>b:Month</DataTag>
+    <DataTag>b:Year</DataTag>
+    <DataTag>b:ShortTitle</DataTag>
+    <DataTag>b:Author/b:Editor/b:NameList</DataTag>
+    <DataTag>b:Author/b:Translator/b:NameList</DataTag>
+    <DataTag>b:Comments</DataTag>
     <!-- End original tags. -->
     <!-- Begin extra tags. -->
     <DataTag>b:Medium</DataTag>

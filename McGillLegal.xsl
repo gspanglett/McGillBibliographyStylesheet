@@ -172,6 +172,40 @@
         <b:ImportantField>b:Publisher</b:ImportantField>
         <b:ImportantField>b:Pages</b:ImportantField>
       </source>
+      <source type="Patent">
+        <b:ImportantField>b:Title</b:ImportantField>
+        <b:ImportantField>b:CountryRegion</b:ImportantField>
+        <b:ImportantField>b:PatentNumber</b:ImportantField>
+        <b:ImportantField>b:PCTPatentNumber</b:ImportantField>
+        <b:ImportantField>b:Day</b:ImportantField>
+        <b:ImportantField>b:Month</b:ImportantField>
+        <b:ImportantField>b:Year</b:ImportantField>
+        <b:ImportantField>b:Author/b:Author/b:NameList</b:ImportantField>
+        <b:ImportantField>b:Comments</b:ImportantField>
+      </source>
+      <source type="Trademark">
+        <b:ImportantField>b:Author/b:Author/b:NameList</b:ImportantField>
+        <b:ImportantField>b:Title</b:ImportantField>
+        <b:ImportantField>b:CountryRegion</b:ImportantField>
+        <b:ImportantField>b:RegistrationNumber</b:ImportantField>
+        <b:ImportantField>b:Status</b:ImportantField>
+        <b:ImportantField>b:Day</b:ImportantField>
+        <b:ImportantField>b:Month</b:ImportantField>
+        <b:ImportantField>b:Year</b:ImportantField>
+        <b:ImportantField>b:Comments</b:ImportantField>
+      </source>
+      <source type="Copyright">
+        <b:ImportantField>b:Author/b:Author/b:NameList</b:ImportantField>
+        <b:ImportantField>b:Title</b:ImportantField>
+        <b:ImportantField>b:Type</b:ImportantField>
+        <b:ImportantField>b:CountryRegion</b:ImportantField>
+        <b:ImportantField>b:RegistrationNumber</b:ImportantField>
+        <b:ImportantField>b:Status</b:ImportantField>
+        <b:ImportantField>b:Day</b:ImportantField>
+        <b:ImportantField>b:Month</b:ImportantField>
+        <b:ImportantField>b:Year</b:ImportantField>
+        <b:ImportantField>b:Comments</b:ImportantField>
+      </source>
       <source type="BookSection">
         <b:ImportantField>b:Author/b:Author/b:NameList</b:ImportantField>
         <b:ImportantField>b:Author/b:Editor/b:NameList</b:ImportantField>
@@ -253,6 +287,15 @@
       </source>
       <source type="ArticleInAPeriodical">
         <format>{%CitationPrefix%}{%Author:1|Editor:2%}{, &quot;%Title%&quot;} in{ %Editor:2%&#44; }{ &lt;i&gt;%PeriodicalTitle%&lt;/i&gt;,}{ %Edition:o% ed} &#40;{%City%{, %StateProvince|CountryRegion%}: }{%Publisher%} { %Year|"nd"%{%YearSuffix%}}{%Year%{%YearSuffix%}}&#41;{ %Pages%}{ %CitationPages:at :at %}{%CitationSuffix%}.</format>
+      </source>
+      <source type="Patent">
+        <format>{%CitationPrefix%}{&quot;%Title%&quot;, }{%CountryRegion% }{Patent No %PatentNumber%}{, PCT Patent No %PCTPatentNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %CitationPages:, :, %}{%CitationSuffix%}.</format>
+      </source>
+      <source type="Trademark">
+        <format>{%CitationPrefix%}{&quot;%Title%&quot;, }{%Author:1|Editor:2%, }{%CountryRegion% }{No %RegistrationNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}{ %CitationPages:, :, %}{%CitationSuffix%}.</format>
+      </source>
+      <source type="Copyright">
+        <format>{%CitationPrefix%}{&quot;%Title%&quot; }{&#40;%Type%&#41; }{%Author:1|Editor:2%, }{%CountryRegion% }{%RegistrationNumber%} &#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}{ %CitationPages:, :, %}{%CitationSuffix%}.</format>
       </source>
       <source type="BookSection">
         <format>{%CitationPrefix%}{%Author:1|Editor:2|ShortTitle|Title%{ %Year|"nd"%{%YearSuffix%}}}{%Year%{%YearSuffix%}}{ %CitationPages:at :at %}{%CitationSuffix%}.</format>
@@ -354,6 +397,32 @@
  
         </column>
         <sortkey>{%Author:0|PeriodicalTitle|Title|ShortTitle|BookTitle%}{ %Year%}{ %Title|ShortTitle%}{ %PeriodicalArticle%}</sortkey>
+      </source>
+      <source type="Patent">
+        <column id="1">
+          <halign>left</halign>
+          <valign>top</valign>
+          <format>{&quot;%Title%&quot;, }{%CountryRegion% }{Patent No %PatentNumber%}{, PCT Patent No %PCTPatentNumber% }&#40;{%Day% }{%Month% }{%Year%}&#41;.</format>
+ 
+        </column>
+        <sortkey>{3%Title|ShortTitle|BookTitle%}{ %CountryRegion%}{ %PatentNumber%}{ %Year%}</sortkey>
+      </source>
+      <source type="Trademark">
+        <column id="1">
+          <halign>left</halign>
+          <valign>top</valign>
+          <format>{&quot;%Title%&quot;, }{%Author:1|Editor:2%, }{%CountryRegion% }{No %RegistrationNumber%}&#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}.</format>
+ 
+        </column>
+        <sortkey>{4%Title|ShortTitle|BookTitle%}{ %CountryRegion%}{ %RegistrationNumber%}{ %Year%}</sortkey>
+      </source>
+      <source type="Copyright">
+        <column id="1">
+          <halign>left</halign>
+          <valign>top</valign>
+          <format>{&quot;%Title%&quot; }{&#40;%Type%&#41; }{%Author:1|Editor:2%, }{%CountryRegion% }{%RegistrationNumber% }&#40;{%Day% }{%Month% }{%Year%}&#41;{ %Status%}.</format>
+        </column>
+        <sortkey>{5%Title|ShortTitle|BookTitle%}{ %CountryRegion%}{ %RegistrationNumber%}{ %Year%}</sortkey>
       </source>
       <source type="BookSection">
         <column id="1">
