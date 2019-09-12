@@ -40,6 +40,7 @@ Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\McGillLegal.xsl"; Des
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\Sources.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\types.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\BIBFORM.XML"; DestDir: "C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography"; Flags: confirmoverwrite
+Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\BIBFORM.XML"; DestDir: "C:\Program Files\Microsoft Office\root\Office16\1033\Bibliography"; Flags: confirmoverwrite
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\types.xml"; DestDir: "{userappdata}\Microsoft\Bibliography\Style"; Flags: confirmoverwrite
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\Sources.xml"; DestDir: "{userappdata}\Microsoft\Bibliography"; Flags: confirmoverwrite
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\McGillLegal.xsl"; DestDir: "{userappdata}\Microsoft\Bibliography\Style"; Flags: confirmoverwrite
