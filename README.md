@@ -34,7 +34,7 @@ There are two limitations: it is for footnote citations only; I will make a sepa
 Finally, the next version will include support for government publications and international documents.  I would also like to release a French version.
 
 
-# How To Use MS Word Citations, Bibliographies, Table of Authorities
+# How To Use 
 
 Introduction to McGill Legal Style for MS Word :  https://youtu.be/ITn_j4sHDAY
 
@@ -115,23 +115,6 @@ Close all Office applications before proceeding.
 3.  Start MS Word.  Go to the References tab.  In the Citations and Bibliography section, check that "McGill Legal" is selectable as a style.
 
 4.  Go to Insert Citation ->  Add New Source ...  .  Go to the Type of Source dropdown.  Check that Legislation, Case and Legal Jounral Article are the first two items in the dropdown.
-
-
-# Other Resources
-
-Introduction to McGill Legal Style for MS Word :  https://youtu.be/ITn_j4sHDAY
-
-Adding a complex case citation (parallel citation, different year from reporter, explicit reference to court):  https://youtu.be/js5cJVlrFcc
-
-Demonstrating the various citation source types:  https://youtu.be/3LHT_nz0MYY
-
-How to add a bibliography:  https://youtu.be/4fJdiaPfR2A
-
-Legal Office Guru:  Table of Authorities – The Ultimate Guide  -  https://legalofficeguru.com/table-of-authorities-ultimate-guide/
-
-Cross-referencing footnotes in Word  -  https://lsslib.wordpress.com/2014/04/29/cross-referencing-footnotes-in-word/
-
-
 
 
 # Other Info
