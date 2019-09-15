@@ -3,7 +3,7 @@
 FILE=/Applications/Microsoft\ Word.app/Contents/Resources/en.lproj/BIBFORM.XML
 if test -f "$FILE"; then
     echo "Moving existing BIBFORM.XML file to BIBFORM.ORIG"
-    mv /Applications/Microsoft\ Word.app/Contents/Resources/en.lproj/BIBFORM.XML /Applications/Microsoft\ Word.app/Contents/Resources/en.lproj/BIBFORM.ORIG
+    mv /Applications/Microsoft\ Word.app/Contents/Resources/en.lproj/BIBFORM.XML /Applications/Microsoft\ Word.app/Contents/Resources/en.lproj/BIBFORM.ORIG_`date +%d%b%Y`
 fi
 
 echo "Copying McGill Legal files ..."
