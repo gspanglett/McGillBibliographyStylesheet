@@ -23,13 +23,15 @@ Adds "McGill Legal" as a citation style in the References section of MS Word.  I
  - trademarks
  - copyright.  
  
- Other source types updated to by McGill-compliant - books (plus collections of essays), websites, and electronic, online resources - have also been made fully McGill-compliant.  The popup form in MS Word to enter sources has also been modified to match McGill style headings and descriptions.
+Other source types updated to be McGill-compliant are books (plus collections of essays), websites, and electronic, online resources. The popup form in MS Word to enter sources has also been modified to match McGill general form descriptions.
 
-It will auto-generate bibliographies (ordered based on McGill Guide) and Tables of Authorities (by category).  It also stores citation sources in a master file, for easy re-use in other documents.
+It will auto-generate bibliographies (ordered based on McGill Guide) and Tables of Authorities (by category). It also stores citation sources in a master file, for easy re-use in other documents.
 
 And, it will automatically track and update supra note references.
 
--  two limitations:  it for footnote citations only; I will make a separate style for in-text citations used in memoranda and facta sometime soon.  And ibid has to be done manually.
+There are two limitations: it is for footnote citations only; I will make a separate style for in-text citations used in memoranda and facta sometime soon. And ibid has to be done manually.
+
+Finally, the next version will include support for government publications and international documents.  I would also like to release a French version.
 
 A quick video demo is here:  https://youtu.be/ITn_j4sHDAY
 
