@@ -37,7 +37,7 @@ Close all Office applications before proceeding.
 
 ### Option 1:  Use installer
 
-Download the installer, run it, then open MS Word and check to see if McGill Legal is available as a reference style.
+Download the installer (https://github.com/gspanglett/McGillBibliographyStylesheet/blob/master/McGillBibliographyInstaller.exe), run it, then open MS Word and check to see if McGill Legal is available as a reference style.
 
 ### Option 2:  Manual install
 
