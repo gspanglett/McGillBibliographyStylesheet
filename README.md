@@ -44,6 +44,8 @@ Demonstrating the various citation source types:  https://youtu.be/3LHT_nz0MYY
 
 How to add a bibliography:  https://youtu.be/4fJdiaPfR2A
 
+Import existing citations into a new document:  https://youtu.be/ycK04ewBwkc
+
 Legal Office Guru:  Table of Authorities – The Ultimate Guide  -  https://legalofficeguru.com/table-of-authorities-ultimate-guide/
 
 Cross-referencing footnotes in Word  -  https://lsslib.wordpress.com/2014/04/29/cross-referencing-footnotes-in-word/
