@@ -1,3 +1,16 @@
+## NOTE TO ALL USERS:  
+
+This is a first effort, and is offered as-is.  
+
+I will continue to post improvements, but I have a full-time job, part-time law school, and full-time parent.
+
+The next round of updates will most likely be posted around the end of December 2019/January 2020.
+
+Issues will be reviewed, and I will do my best to roll in any enhancement requests/issue fixes in the next release.
+
+Gareth.
+
+
 # McGill Legal Style Bibliography Stylesheet Addon for MS Word
 
 Adds "McGill Legal" as a citation style in the References section of MS Word.  It also creates new citation source types for:  
@@ -79,4 +92,4 @@ Close all Office applications before proceeding.
 
 Dedicated to all 1L students at University of Ottawa: bringing open source to the legal profession.
 
-Gareth Spanglett.
+
