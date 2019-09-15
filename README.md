@@ -31,6 +31,8 @@ And, it will automatically track and update supra note references.
 
 -  two limitations:  it for footnote citations only; I will make a separate style for in-text citations used in memoranda and facta sometime soon.  And ibid has to be done manually.
 
+A quick video demo is here:  https://youtu.be/ITn_j4sHDAY
+
 ## Installation Windows
 
 Close all Office applications before proceeding.
@@ -99,6 +101,8 @@ Close all Office applications before proceeding.
 
 
 # Other Resources
+
+Introduction to McGill Legal Style for MS Word :  https://youtu.be/ITn_j4sHDAY
 
 Legal Office Guru:  Table of Authorities – The Ultimate Guide  -  https://legalofficeguru.com/table-of-authorities-ultimate-guide/
 
