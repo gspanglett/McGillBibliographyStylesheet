@@ -70,7 +70,7 @@ Close all Office applications before proceeding.
 
  1.  Download https://github.com/gspanglett/McGillBibliographyStylesheet/blob/master/McGillStyle.zip, and unzip all contents to a folder.
 
-    1a.  Alternatively, download the following files to a directory:  BIBFORM.XML, types.xml, McGillLegal.xsl, McGillBibliographyInstaller.sh
+  1a.  Alternatively, download the following files to a directory:  BIBFORM.XML, types.xml, McGillLegal.xsl, McGillBibliographyInstaller.sh
 
 2.  Go the Finder, and go to Utilities.  Launch Terminal.
 
