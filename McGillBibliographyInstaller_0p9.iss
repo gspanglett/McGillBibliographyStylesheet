@@ -34,7 +34,9 @@ TouchDate=current
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
-[Files]Source: "C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography\BIBFORM.XML"; DestDir: "C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography"; DestName: "BIBFORM.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
+[Files]Source: "C:\Program Files (x86)\Microsoft Office\Office16\1033\Bibliography\BIBFORM.XML"; DestDir: "C:\Program Files (x86)\Microsoft Office\Office16\1033\Bibliography"; DestName: "BIBFORM.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
+Source: "C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography\BIBFORM.XML"; DestDir: "C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography"; DestName: "BIBFORM.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
+Source: "C:\Program Files\Microsoft Office\Office16\1033\Bibliography\BIBFORM.XML"; DestDir: "C:\Program Files\Microsoft Office\Office16\1033\Bibliography"; DestName: "BIBFORM.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
 Source: "C:\Program Files\Microsoft Office\root\Office16\1033\Bibliography\BIBFORM.XML"; DestDir: "C:\Program Files\Microsoft Office\root\Office16\1033\Bibliography"; DestName: "BIBFORM.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
 Source: "{userappdata}\Microsoft\Bibliography\Sources.xml"; DestDir: "{userappdata}\Microsoft\Bibliography"; DestName: "Sources.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
 Source: "{userappdata}\Microsoft\Bibliography\Style\types.xml"; DestDir: "{userappdata}\Microsoft\Bibliography\Style"; DestName: "types.BACKUP.{#MyDateTimeString}"; Flags: external skipifsourcedoesntexist;
@@ -47,6 +49,8 @@ Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\Sources.xml"; DestDir
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\types.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\BIBFORM.XML"; DestDir: "C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\BIBFORM.XML"; DestDir: "C:\Program Files\Microsoft Office\root\Office16\1033\Bibliography"; Flags: ignoreversion
+Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\BIBFORM.XML"; DestDir: "C:\Program Files (x86)\Microsoft Office\Office16\1033\Bibliography"; Flags: ignoreversion
+Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\BIBFORM.XML"; DestDir: "C:\Program Files\Microsoft Office\Office16\1033\Bibliography"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\types.xml"; DestDir: "{userappdata}\Microsoft\Bibliography\Style"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\Sources.xml"; DestDir: "{userappdata}\Microsoft\Bibliography"; Flags: ignoreversion
 Source: "C:\Users\Gareth Spanglett\Qsync\OULaw\McGillStyle\McGillLegal.xsl"; DestDir: "{userappdata}\Microsoft\Bibliography\Style"; Flags: ignoreversion
