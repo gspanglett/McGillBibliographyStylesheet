@@ -98,6 +98,15 @@ Close all Office applications before proceeding.
 4.  Go to Insert Citation ->  Add New Source ...  .  Go to the Type of Source dropdown.  Check that Legislation, Case and Legal Jounral Article are the first two items in the dropdown.
 
 
+# Other Resources
+
+Legal Office Guru:  Table of Authorities – The Ultimate Guide  -  https://legalofficeguru.com/table-of-authorities-ultimate-guide/
+
+Cross-referencing footnotes in Word  -  https://lsslib.wordpress.com/2014/04/29/cross-referencing-footnotes-in-word/
+
+
+
+
 # Other Info
 
 Dedicated to all 1L students at University of Ottawa: bringing open source to the legal profession.
