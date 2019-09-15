@@ -8,7 +8,7 @@ The next round of updates will most likely be posted around the end of December 
 
 Issues will be reviewed, and I will do my best to roll in any enhancement requests/issue fixes in the next release.
 
-Gareth.
+Gareth Spanglett.
 
 
 # McGill Legal Style Bibliography Stylesheet Addon for MS Word
