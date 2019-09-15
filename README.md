@@ -2,7 +2,7 @@
 
 This is a first effort, and is offered as-is.  
 
-I will continue to post improvements, but I have a full-time job, part-time law school, and full-time parent.
+I will continue to post improvements, but I work full-time, attend law school part-time, and I have a family and two school-aged children.
 
 The next round of updates will most likely be posted around the end of December 2019/January 2020.
 
