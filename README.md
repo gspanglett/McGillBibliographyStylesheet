@@ -41,9 +41,17 @@ Download the installer, run it, then open MS Word and check to see if McGill Leg
 
 ### Option 2:  Manual install
 
-1.  Copy BIBFORM.XML to C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography\
+1.  Replace exisint BIBFORM.XML file with downloaded version:
 
-    1a.  You can backup the existing BIBFORM.XML file before copying the new one.
+    1a.  For many versions of Word, this will be C:\Program Files (x86)\Microsoft Office\root\Office16\1033\Bibliography\
+
+    1b.  Other possible locations are: 
+    
+         C:\Program Files\Microsoft Office\root\Office16\1033\Bibliography\
+         
+         C:\Program Files (x86)\Microsoft Office\Office16\1033\Bibliography\
+         
+         C:\Program Files\Microsoft Office\Office16\1033\Bibliography\
     
 2.  Copy types.xml and McGillLegal.xsl to C:\Users\<your_username>\AppData\Roaming\Microsoft\Bibliography\Style\
 
