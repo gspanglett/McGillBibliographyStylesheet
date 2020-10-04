@@ -1,3 +1,10 @@
+## UPDATE 4-OCT-2020:
+
+THESE INSTRUCTIONS ARE NOW OBSOLETE. PLEASE REFER TO https://gspanglett.github.io/ or https://spanglett.legal for updated information on Canadian legal style using Zotero.
+
+THE INFORMATION BELOW IS MAINTAINED FOR HISTORICAL PURPOSES.  THE MS WORD SETUP BELOW HAS BEEN REPLACED WITH ZOTERO.
+
+
 ## NOTE TO ALL USERS:  
 
 This is a first effort, and is offered as-is.  
