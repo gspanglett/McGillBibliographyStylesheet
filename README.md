@@ -65,7 +65,7 @@ Close all Office applications before proceeding.
 
 ### Option 1:  Use installer
 
-Download the installer (https://github.com/gspanglett/McGillBibliographyStylesheet/blob/master/McGillBibliographyInstaller.exe), run it, then open MS Word and check to see if McGill Legal is available as a reference style.
+Download the installer, run it, then open MS Word and check to see if McGill Legal is available as a reference style.
 
 ### Option 2:  Manual install
 
@@ -96,7 +96,7 @@ Close all Office applications before proceeding.
 
 ### Option 1:  Use install script
 
- 1.  Download https://github.com/gspanglett/McGillBibliographyStylesheet/blob/master/McGillStyle.zip, and unzip all contents to a folder.
+ 1.  Download McGillStyle.zip, and unzip all contents to a folder.
 
   1a.  Alternatively, download the following files to a directory:  BIBFORM.XML, types.xml, McGillLegal.xsl, McGillBibliographyInstaller.sh
 
